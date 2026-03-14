@@ -5,3 +5,6 @@ dist/
 wheels/
 *.egg-info
 .venv
+orin_run.py
+sweep_gp.py
+shared_gp.py
